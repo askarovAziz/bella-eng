@@ -1127,7 +1127,7 @@ img {
   transform: translateX(10px);
 }
 
-/* Исправляю обрезанный CSS и добавляю все недостающие стили */
+/* Fixed truncated CSS and added the missing styles */
 .feature-icon {
   width: 48px;
   height: 48px;
